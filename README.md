@@ -5,7 +5,7 @@
 | Title | Date (dd.mm.yyyy) | Where | Artifacts |
 |-------|------|-------|-----------|
 | QuickChecking with dependent types | 08.12.2022 | Idris Developers Meeting | [[slides]](2022.12.08-on-deptycheck.idm.pdf) |
-| Dependent Types to Push Corners of the Property-based Testing | 06.09.2024 | TyDe at ICFP'24 | [[slides]](2024.09.06-deptyp-to-push-pbt.pdf) [[paper]](https://icfp24.sigplan.org/details/tyde-2024-papers/6/Dependent-Types-to-Push-Corners-of-the-Property-based-Testing-Extended-Abstract-) [[code]](https://github.com/buzden/code-for-lectures/tree/master/2024.09.06-deptyp-to-push-pbt) [video] |
+| Dependent Types to Push Corners of the Property-based Testing | 06.09.2024 | TyDe at ICFP'24 | [[slides]](2024.09.06-deptyp-to-push-pbt.pdf) [[paper]](https://icfp24.sigplan.org/details/tyde-2024-papers/6/Dependent-Types-to-Push-Corners-of-the-Property-based-Testing-Extended-Abstract-) [[code]](https://github.com/buzden/code-for-lectures/tree/master/2024.09.06-deptyp-to-push-pbt) [[video]](https://youtube.com/watch?v=hTCyrpsFrAE) |
 
 ## Презентации на русском / Talks in Russian
 
