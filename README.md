@@ -97,7 +97,7 @@
       <td>Хорошо протестировать нетестируемое и не сойти с ума</td>
       <td>17.10.2024</td>
       <td>Heisenbug 2024 Autumn</td>
-      <td><a href="2024.10.17-test-untestable-well-still-staying-sane.heisenbug.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2024.10.17-test-untestable-well-still-staying-sane">[код]</a> [видео]</td>
+      <td><a href="2024.10.17-test-untestable-well-still-staying-sane.heisenbug.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2024.10.17-test-untestable-well-still-staying-sane">[код]</a> <a href="https://www.youtube.com/watch?v=zyZJm8wExFU">[видео]</a></td>
     </tr>
   </tbody>
 </table>
