@@ -99,5 +99,11 @@
       <td>Heisenbug 2024 Autumn</td>
       <td><a href="2024.10.17-test-untestable-well-still-staying-sane.heisenbug.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2024.10.17-test-untestable-well-still-staying-sane">[код]</a> <a href="https://www.youtube.com/watch?v=zyZJm8wExFU">[видео]</a></td>
     </tr>
+    <tr>
+      <td>Мама и папа, вы видели как я могу? Код <i>точно</i> работает с внешними данными!</td>
+      <td>30.09.2025</td>
+      <td>JVM Day 2025</td>
+      <td><a href="2025.08.30-on-type-providers.jvmday.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2025.08.30-on-type-providers">[код]</a> [видео]</td>
+    </tr>
   </tbody>
 </table>
