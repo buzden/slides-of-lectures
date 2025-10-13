@@ -103,7 +103,7 @@
       <td>Мама и папа, вы видели как я могу? Код <i>точно</i> работает с внешними данными!</td>
       <td>30.09.2025</td>
       <td>JVM Day 2025</td>
-      <td><a href="2025.08.30-on-type-providers.jvmday.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2025.08.30-on-type-providers">[код]</a> [видео]</td>
+      <td><a href="2025.08.30-on-type-providers.jvmday.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2025.08.30-on-type-providers">[код]</a> <a href="https://youtu.be/qbx450GhtRM">[видео]</a></td>
     </tr>
   </tbody>
 </table>
