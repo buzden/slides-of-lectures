@@ -105,5 +105,23 @@
       <td>JVM Day 2025</td>
       <td><a href="2025.08.30-on-type-providers.jvmday.pdf">[слайды]</a> <a href="https://github.com/buzden/code-for-lectures/tree/master/2025.08.30-on-type-providers">[код]</a> <a href="https://youtu.be/qbx450GhtRM">[видео]</a></td>
     </tr>
+    <tr>
+      <td>Property-based testing и зависимые типы, и немножко функционального программирования</td>
+      <td>11.02.2026<br/>18.02.2026</td>
+      <td>Семинар отдела технологий программирования ИСП</td>
+      <td><a href="2026.02.11-deptycheck-introductory.isp-se-sem.pdf">[слайды]</a> [видео1] [видео2]</td>
+    </tr>
+    <tr>
+      <td>(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть 1. Использование</td>
+      <td>16.02.2026</td>
+      <td>Семинар лаборатории формальной математики</td>
+      <td><a href="2026.02.16-deptycheck-technical-part-1-usage.kol-sem.pdf">[слайды]</a> [видео]</td>
+    </tr>
+    <tr>
+      <td>(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть 2. Генераторы</td>
+      <td>01.07.2026</td>
+      <td>Семинар ФП в ИСП</td>
+      <td><a href="2026.07.01-deptycheck-technical-part-2-generators.isp-fp-sem.pdf">[слайды]</a> [видео]</td>
+    </tr>
   </tbody>
 </table>
