@@ -112,16 +112,21 @@
       <td><a href="2026.02.11-deptycheck-introductory.isp-se-sem.pdf">[слайды]</a> [видео1] [видео2]</td>
     </tr>
     <tr>
-      <td>(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть 1. Использование</td>
+      <td>(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть&nbsp;1.&nbsp;Использование</td>
       <td>16.02.2026</td>
       <td>Семинар лаборатории формальной математики</td>
       <td><a href="2026.02.16-deptycheck-technical-part-1-usage.kol-sem.pdf">[слайды]</a> [видео]</td>
     </tr>
     <tr>
-      <td>(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть 2. Генераторы</td>
+      <td rowspan="2">(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть&nbsp;2.&nbsp;Генераторы</td>
       <td>01.07.2026</td>
       <td>Семинар ФП в ИСП</td>
       <td><a href="2026.07.01-deptycheck-technical-part-2-generators.isp-fp-sem.pdf">[слайды]</a> [видео]</td>
+    </tr>
+    <tr>
+      <td>06.07.2026</td>
+      <td>Семинар лаборатории формальной математики</td>
+      <td><a href="2026.07.06-deptycheck-technical-part-2-generators.lfm-sem.pdf">[слайды]</a> [видео]</td>
     </tr>
   </tbody>
 </table>
