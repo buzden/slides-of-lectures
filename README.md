@@ -109,7 +109,7 @@
       <td>Property-based testing и зависимые типы, и немножко функционального программирования</td>
       <td>11.02.2026<br/>18.02.2026</td>
       <td>Семинар отдела технологий программирования ИСП</td>
-      <td><a href="2026.02.11-deptycheck-introductory.isp-se-sem.pdf">[слайды]</a> [видео1] [видео2]</td>
+      <td><a href="2026.02.11-deptycheck-introductory.isp-se-sem.pdf">[слайды]</a> <a href="http://seminars.ispras.ru/seminars/1/buzdalov-denis/property-based-testing-i-zavisimye-tipy-i-nemnozhko-funktsionalnoe-programmirovanie">[видео1]</a> <a href="http://seminars.ispras.ru/seminars/2/buzdalov-denis/property-based-testing-i-zavisimye-tipy-i-nemnozhko-funktsionalnoe-programmirovanie-chast-2">[видео2]</a></td>
     </tr>
     <tr>
       <td>(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть&nbsp;1.&nbsp;Использование</td>
@@ -121,7 +121,7 @@
       <td rowspan="2">(Property-based testing + зав.типы) × деривация = ❤️‍🔥. Часть&nbsp;2.&nbsp;Генераторы</td>
       <td>01.07.2026</td>
       <td>Семинар ФП в ИСП</td>
-      <td><a href="2026.07.01-deptycheck-technical-part-2-generators.isp-fp-sem.pdf">[слайды]</a> [видео]</td>
+      <td><a href="2026.07.01-deptycheck-technical-part-2-generators.isp-fp-sem.pdf">[слайды]</a> <a href="http://seminars.ispras.ru/seminars/11/buzdalov-denis/property-based-testing-zavisimye-tipy-derivatsiya-chast-2-generatory">[видео]</a></td>
     </tr>
     <tr>
       <td>06.07.2026</td>
